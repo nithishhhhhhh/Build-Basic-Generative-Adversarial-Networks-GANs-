@@ -1,0 +1,1 @@
+In this week, I am going to create my first generative adversarial network (GAN) for this course! Specifically, I will build and train a GAN that can generate hand-written images of digits (0-9). I will be using PyTorch
